@@ -1,0 +1,22 @@
+E:\programare web\laborator1\laborator1\laborator1\bin\Debug\laborator1.exe.config
+E:\programare web\laborator1\laborator1\laborator1\bin\Debug\laborator1.exe
+E:\programare web\laborator1\laborator1\laborator1\bin\Debug\laborator1.pdb
+E:\programare web\laborator1\laborator1\laborator1\obj\Debug\laborator1.csproj.AssemblyReference.cache
+E:\programare web\laborator1\laborator1\laborator1\obj\Debug\laborator1.csproj.SuggestedBindingRedirects.cache
+E:\programare web\laborator1\laborator1\laborator1\obj\Debug\laborator1.Properties.Resources.resources
+E:\programare web\laborator1\laborator1\laborator1\obj\Debug\laborator1.csproj.GenerateResource.cache
+E:\programare web\laborator1\laborator1\laborator1\obj\Debug\laborator1.csproj.CoreCompileInputs.cache
+E:\programare web\laborator1\laborator1\laborator1\obj\Debug\laborator1.exe
+E:\programare web\laborator1\laborator1\laborator1\obj\Debug\laborator1.pdb
+E:\programare web\laborator1\laborator1\laborator1\obj\Debug\laborator1.Form1.resources
+D:\projectsRiderFinal\labSGBD2\bin\Debug\laborator1.exe.config
+D:\projectsRiderFinal\labSGBD2\bin\Debug\laborator1.exe
+D:\projectsRiderFinal\labSGBD2\bin\Debug\laborator1.pdb
+D:\projectsRiderFinal\labSGBD2\obj\Debug\laborator1.csproj.AssemblyReference.cache
+D:\projectsRiderFinal\labSGBD2\obj\Debug\laborator1.csproj.SuggestedBindingRedirects.cache
+D:\projectsRiderFinal\labSGBD2\obj\Debug\laborator1.Form1.resources
+D:\projectsRiderFinal\labSGBD2\obj\Debug\laborator1.Properties.Resources.resources
+D:\projectsRiderFinal\labSGBD2\obj\Debug\laborator1.csproj.GenerateResource.cache
+D:\projectsRiderFinal\labSGBD2\obj\Debug\laborator1.csproj.CoreCompileInputs.cache
+D:\projectsRiderFinal\labSGBD2\obj\Debug\laborator1.exe
+D:\projectsRiderFinal\labSGBD2\obj\Debug\laborator1.pdb
